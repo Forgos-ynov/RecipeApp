@@ -1,3 +1,3 @@
 # RecipeApp
 # Le projet est corompus et je n'arrive pas à m'en sortir ... 
-# JE n'ai pas eus le temps de faire ce que je voulais.
+# Je n'ai pas eus le temps de faire ce que je voulais.
